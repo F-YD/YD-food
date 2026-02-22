@@ -181,3 +181,12 @@ footer{
     padding: 5px 10px;              
     display: inline-block;            
 }
+
+
+
+
+.line{
+     height: 10px;                    
+    background-color: rgb(10, 29, 64);
+    margin: 2px 0;   
+}
